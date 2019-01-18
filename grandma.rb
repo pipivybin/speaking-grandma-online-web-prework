@@ -1,5 +1,4 @@
-
-  if speak_to_grandma() = "I LOVE YOU GRANDMA!"
+if speak_to_grandma() = "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
     elseif speak_to_grandma() !== yousay.upcase
     return "HUH?! SPEAK UP, SONNY!"
