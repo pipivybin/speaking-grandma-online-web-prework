@@ -1,8 +1,9 @@
-speak_to_grandma(yousay) 
+def speak_to_grandma(yousay)
 if yousay = "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   else "HUH?! SPEAK UP, SONNY!"
     end
+  end
 
 #  elseif print "HUH?! SPEAK UP, SONNY!"
 
