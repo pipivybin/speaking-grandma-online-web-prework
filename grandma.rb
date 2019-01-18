@@ -1,4 +1,4 @@
-speak_to_grandma(yousay) = "#{yousay}"
+speak_to_grandma(yousay) 
 if yousay = "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   else "HUH?! SPEAK UP, SONNY!"
