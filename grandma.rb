@@ -3,7 +3,7 @@ if yousay = "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif yousay == yousay.upcase
   return "NO, NOT SINCE 1938!"
-  elsif yousay !== yousay.upcase
+else
   return  "HUH?! SPEAK UP, SONNY!"
     end
   end
