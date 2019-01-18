@@ -1,7 +1,11 @@
 def speak_to_grandma(yousay)
 if yousay = "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
-  else "HUH?! SPEAK UP, SONNY!"
+  elsif yousay == yousay.upcase
+  return "NO, NOT SINCE 1938!"
+  else
+  return  "HUH?! SPEAK UP, SONNY!"
+  
     end
   end
 
