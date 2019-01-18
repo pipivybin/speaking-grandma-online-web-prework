@@ -1,8 +1,10 @@
 def speak_to_grandma
   if yousay = "I LOVE YOU GRANDMA!"
-    print "I LOVE YOU TOO PUMPKIN!"
+    return "I LOVE YOU TOO PUMPKIN!"
     elseif yousay !== yousay.upcase
-    print "HUH?! SPEAK UP, SONNY!"
+    return "HUH?! SPEAK UP, SONNY!"
+  elseif yousay == yousay.upcase
+  return "NO, NOT SINCE 1938!"
 end
 
 #  elseif print "HUH?! SPEAK UP, SONNY!"
